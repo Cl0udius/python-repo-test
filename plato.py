@@ -19,3 +19,5 @@ def sieve_of_eratosthenes(n):
     prime_numbers = [p for p in range(2, n + 1) if primes[p]]
     return prime_numbers
 
+if __name__ == "__main__":
+    main()
