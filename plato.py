@@ -1,6 +1,6 @@
 def main():
   # Setze n auf 100000
-  n = 100000000
+  n = 10000000
   prime_numbers = sieve_of_eratosthenes(n)
   print(prime_numbers)
 
