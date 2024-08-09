@@ -13,8 +13,6 @@ httpx[http2] ==0.27.0
 opentelemetry-exporter-otlp==1.25.0
 opentelemetry-api==1.25.0
 opentelemetry-sdk==1.25.0
-cialogging==2.0.1
-cia-exceptions==1.0.1
 gql[all]==3.5.0
 referencing==0.35.1
 hvac>=2.0.0
